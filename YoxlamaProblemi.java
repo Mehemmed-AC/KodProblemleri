@@ -66,3 +66,4 @@ public boolean isdifadeciyoxlayici(String yeni_melumat, String durum) throws IOE
         }      
         return bayrag_esas;
     }
+//Problem Hel Olunudnu
