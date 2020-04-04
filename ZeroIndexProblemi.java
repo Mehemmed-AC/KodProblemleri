@@ -59,3 +59,4 @@ private void Isci_Tam_Borc_txtMouseClicked(java.awt.event.MouseEvent evt) {
         this.Iscileri_Gosderen_Liste.setVisible(false);            
      }
 }                                  
+//Problem Hel Olundu
