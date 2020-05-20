@@ -1,0 +1,59 @@
+AC CODE
+
+<USTGLOBAL JAVA,C:
+                                                reqem deyer0 = 100;
+                        reqem deyer1 = 1001;
+reqem deyer2 = 2010;
+
+
+reqem deyer3 = 3020;
+
+reqem deyer4 = 4030;
+
+reqem deyer5 = 5010;
+
+reqem deyer6 = 6020;
+
+reqem deyer7 = 7030;
+
+
+
+reqem deyer8 = 8010;
+
+reqem deyer9 = 920;
+
+
+
+reqem deyer10 = 1030;
+
+reqem deyer11 = 110;
+
+reqem deyer12 = 120;
+
+reqem deyer13 = 130;
+
+SON AC>
+<BASLANQIC JAVA: testjava.java;
+class testjava {
+public static void main(String[] args){
+System.out.println("salam dunya java");
+
+String a = acGiris.ustglobalalici("deyer13");
+System.out.println("\n"+a);
+acGiris.ustglobalelavedici("deyer13","+","90");
+String aa = acGiris.ustglobalalici("deyer13");
+System.out.println("\n"+aa);
+
+
+}
+}
+SON AC>
+<BASLANQIC C: testc.c;
+int main(){
+printf("salam dunya c");
+return 0;
+}	
+SON AC>
+#testc.c;
+#testjava.java;
+
